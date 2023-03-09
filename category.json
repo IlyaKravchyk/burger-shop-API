@@ -1,0 +1,56 @@
+[
+   {
+      "category": "burger",
+      "title": "Бургеры",
+      "image": "https://i.ibb.co/cTBqn8b/burger.png",
+      "id": 1
+   },
+   {
+      "category": "snack",
+      "title": "Закуски",
+      "image": "https://i.ibb.co/r7LRWdP/snack.png",
+      "id": 2
+   },
+   {
+      "category": "hot-dog",
+      "title": "Хот-доги",
+      "image": "https://i.ibb.co/NK96Zpb/hot-dog.png",
+      "id": 3
+   },
+   {
+      "category": "combo",
+      "title": "Комбо",
+      "image": "https://i.ibb.co/z23wmhS/combo.png",
+      "id": 4
+   },
+   {
+      "category": "shawarma",
+      "title": "Шаурма",
+      "image": "https://i.ibb.co/RvDvXCt/shawarma.png",
+      "id": 5
+   },
+   {
+      "category": "pizza",
+      "title": "Пицца",
+      "image": "https://i.ibb.co/mFnCCjm/pizza.png",
+      "id": 6
+   },
+   {
+      "category": "wok",
+      "title": "Вок",
+      "image": "https://i.ibb.co/TMkmsKW/wok.png",
+      "id": 7
+   },
+   {
+      "category": "dessert",
+      "title": "Десерты",
+      "image": "https://i.ibb.co/hfbNf38/dessert.png",
+      "id": 8
+   },
+   {
+      "category": "sauce",
+      "title": "Соусы",
+      "image": "https://i.ibb.co/sq8Jm0X/sauce.png",
+      "id": 9
+   }
+]
